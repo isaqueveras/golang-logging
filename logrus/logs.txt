@@ -1,0 +1,184 @@
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:00:14-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:00:14-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:00:14-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:00:14-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:42-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:42-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:42-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:42-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:43-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:43-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:44-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:44-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:45-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:45-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:46-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:46-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:46-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:46-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:01:46-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:01:46-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:01:46-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:01:46-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:21","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:02:25-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:02:25-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:02:25-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:25","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:02:25-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:21","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:02:32-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:02:32-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:02:32-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:25","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:02:32-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:34-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:34-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:34-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:34-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:36-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:36-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:36-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:36-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:36-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:36-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:36-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:36-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:37-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:37-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:37-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:37-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:37-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:37-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:37-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:37-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:38-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:38-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:38-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:38-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:38-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:38-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:38-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:38-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:39-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:39-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:39-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:39-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:40-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:40-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:40-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:40-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:40-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:40-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:40-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:40-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:41-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:41-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:41-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:41-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:41-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:41-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:41-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:41-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:43-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:43-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:43-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:44-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:44-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:44-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:44-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:45-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:45-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:45-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:54-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:54-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:54-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:54-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:57-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:57-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:57-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:57-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:58-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:58-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:58-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:58-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:04:59-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:04:59-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:04:59-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:04:59-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:00-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:00-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:00-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:00-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:01-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:01-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:01-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:01-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:01-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:01-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:01-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:01-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:02-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:02-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:02-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:02-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:02-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:02-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:02-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:02-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:03-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:03-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:03-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:03-03:00"}
+{"Day":"foo","Time":"bar","file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:20","func":"main.main","level":"info","msg":"This is a json message","time":"2021-10-27T10:05:05-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:22","func":"main.main","level":"info","msg":"This is some info","time":"2021-10-27T10:05:05-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:23","func":"main.main","level":"warning","msg":"This is some warning","time":"2021-10-27T10:05:05-03:00"}
+{"file":"/home/isaque/Documentos/estudos/golang-logging/logrus/logrus.go:24","func":"main.main","level":"error","msg":"This is some error","time":"2021-10-27T10:05:05-03:00"}
